@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-gradient-to-tl from-blue-500 via-sky-600 to-blue-900">
+      <body className="bg-gradient-to-tl from-sky-500 via-blue-700 to-blue-900">
         
         <Navbar/>
 
